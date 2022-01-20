@@ -6,7 +6,7 @@
 
 ## Summary  
 
-The current repository provides an RStudio project directory containing scripts and data used for the analysis of microarray data reported in Milano et al. (2021).  
+The current repository provides an RStudio project directory containing scripts and data used for the analysis of microarray data reported in Milano et al. (2022).  
 
 The raw Affymetrix microarray data are available on the Gene Expression Omnibus (GEO) depository with accession number GSE115254.  
 
